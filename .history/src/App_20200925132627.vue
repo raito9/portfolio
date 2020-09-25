@@ -1,3 +1,4 @@
+
 <template>
   <div id="app">
     <html lang="zxx" class="no-js">
@@ -289,9 +290,9 @@
 									<p>Who are in extremely love with eco friendly system..</p>
 								</div>
 							</div>
-						</div>	
-					</div>			
-				</section>		
+						</div>				
+					</div>	
+          </		
 						<div class="row">
 							<div class="col-lg-6">
 								<div class="single-review">
@@ -362,6 +363,7 @@
 								</div>															
 							</div>							
 						</div>	
+				</section>
 				<!-- End review Area -->
 				
 
@@ -413,10 +415,12 @@
 				</footer>	
 				<!-- End footer Area -->					
 			</div>
+	
 		</body>
 	</html>
-</div>
+  </div>
 </template>
+
 <script>
 
 
