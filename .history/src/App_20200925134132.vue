@@ -413,7 +413,11 @@
 				</footer>	
 				<!-- End footer Area -->					
 			</div>
-      <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
+      
+		</body>
+	</html>
+</div>
+<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
 			<!--
 			CSS
 			============================================= -->
@@ -425,10 +429,6 @@
 			<link rel="stylesheet" href="css/animate.min.css">
 			<link rel="stylesheet" href="css/owl.carousel.css">
 			<link rel="stylesheet" href="css/main.css">
-		</body>
-	</html>
-</div>
-
 </template>
 <script>
 
