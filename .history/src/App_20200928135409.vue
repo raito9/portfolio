@@ -21,6 +21,14 @@
 			<!--
 			CSS
 			============================================= -->
+			<link rel="stylesheet" href="css/linearicons.css">
+			<link rel="stylesheet" href="css/font-awesome.min.css">
+			<link rel="stylesheet" href="css/bootstrap.css">
+			<link rel="stylesheet" href="css/magnific-popup.css">
+			<link rel="stylesheet" href="css/nice-select.css">					
+			<link rel="stylesheet" href="css/animate.min.css">
+			<link rel="stylesheet" href="css/owl.carousel.css">
+			<link rel="stylesheet" href="css/main.css">
 		</head>
 		<body>
 			<div class="protfolio-wrap">
@@ -64,7 +72,7 @@
 				<section class="banner-area relative" id="home">	
 					<div class="overlay overlay-bg"></div>
 					<div class="container">
-						<div class="row fullscreen d-flex align-items-center justify-content-center" style="height: 722px;">
+						<div class="row fullscreen d-flex align-items-center justify-content-center style=" height : 722px ; " " >
 							<div class="banner-content col-lg-10">
 								<h5 class="text-uppercase">Now you can watch the Talent</h5>
 								<h1>

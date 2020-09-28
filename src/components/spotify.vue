@@ -422,16 +422,12 @@
 </div>
 
 </template>
+
 <script>
-
-
-
-export default {
-  name: 'App',
-  components: {
-    
-  }
-}
+    new Vue({
+        el: 'App',
+        data: { hello: 'Hello World!' }
+    })
 </script>
 
 <style>

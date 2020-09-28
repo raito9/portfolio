@@ -5,7 +5,7 @@
 		<!-- Mobile Specific Meta -->
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<!-- Favicon-->
-		<link rel="shortcut icon" href="./img/fav.png">
+		<link rel="shortcut icon" href="../img/fav.png">
 		<!-- Author Meta -->
 		<meta name="author" content="codepixer">
 		<!-- Meta Description -->
@@ -21,6 +21,14 @@
 			<!--
 			CSS
 			============================================= -->
+			<link rel="stylesheet" href="css/linearicons.css">
+			<link rel="stylesheet" href="css/font-awesome.min.css">
+			<link rel="stylesheet" href="css/bootstrap.css">
+			<link rel="stylesheet" href="css/magnific-popup.css">
+			<link rel="stylesheet" href="css/nice-select.css">					
+			<link rel="stylesheet" href="css/animate.min.css">
+			<link rel="stylesheet" href="css/owl.carousel.css">
+			<link rel="stylesheet" href="css/main.css">
 		</head>
 		<body>
 			<div class="protfolio-wrap">
@@ -64,7 +72,7 @@
 				<section class="banner-area relative" id="home">	
 					<div class="overlay overlay-bg"></div>
 					<div class="container">
-						<div class="row fullscreen d-flex align-items-center justify-content-center" style="height: 722px;">
+						<div class="row fullscreen d-flex align-items-center justify-content-center">
 							<div class="banner-content col-lg-10">
 								<h5 class="text-uppercase">Now you can watch the Talent</h5>
 								<h1>
@@ -103,7 +111,7 @@
 				      <div class="row grid">
 				        <div class="single-portfolio col-sm-4 all corporate">
 				          <div class="item">
-				            <img src="./img/p1.jpg" alt="Work 1">
+				            <img src="img/p1.jpg" alt="Work 1">
 				            <div class="p-inner">
 				              <h4>3D Helmet Design</h4>
 				              <div class="cat">Corporate</div>
@@ -112,7 +120,7 @@
 				        </div>
 				        <div class="single-portfolio col-sm-4 all personal">
 				          <div class="item">
-				            <img src="./img/p2.jpg" alt="Work 1">
+				            <img src="img/p2.jpg" alt="Work 1">
 				            <div class="p-inner">
 				              <h4>2D Vinyl Design</h4>
 				              <div class="cat">Personal</div>
@@ -121,7 +129,7 @@
 				        </div>
 				        <div class="single-portfolio col-sm-4 all agency">
 				          <div class="item">
-				            <img src="./img/p3.jpg" alt="Work 1">
+				            <img src="img/p3.jpg" alt="Work 1">
 				            <div class="p-inner">
 				              <h5>Creative Poster Design</h5>
 				              <div class="cat">Agency</div>
@@ -443,17 +451,4 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
-</style>
-
-<style scoped>
-@import './css/animate.min.css';
-@import './css/bootstrap.css';
-@import './css/font-awesome.min.css';
-@import './css/jquery.DonutWidget.min.css';
-@import './css/jquerysctipttop.css';
-@import './css/linearicons.css';
-@import './css/magnific-popup.css';
-@import './css/main.css';
-@import './css/nice-select.css';
-@import './css/owl.carousel.css';
 </style>

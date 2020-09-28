@@ -434,6 +434,13 @@ export default {
 }
 </script>
 
+<script>
+    new Vue({
+            el: '#example',
+            data: { hello: 'Hello World!' }
+        })
+</script>
+
 <style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
