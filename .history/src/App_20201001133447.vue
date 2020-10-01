@@ -32,9 +32,9 @@ export default {
     banner,
     portfolio,
     service, 
-    services,
-    review,
-    footer
+    Services,
+    Review,
+    Footer
   }
   }
 }

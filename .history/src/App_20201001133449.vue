@@ -33,8 +33,8 @@ export default {
     portfolio,
     service, 
     services,
-    review,
-    footer
+    Review,
+    Footer
   }
   }
 }

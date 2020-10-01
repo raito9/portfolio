@@ -27,14 +27,14 @@ export default {
     };
   name: 'App';
   components: {
-    app,
-    header,
-    banner,
-    portfolio,
-    service, 
-    services,
-    review,
-    footer
+    
+    Header,
+    Banner,
+    Portfolio,
+    Service, 
+    Services,
+    Review,
+    Footer
   }
   }
 }

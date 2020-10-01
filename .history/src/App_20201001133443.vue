@@ -29,12 +29,12 @@ export default {
   components: {
     app,
     header,
-    banner,
-    portfolio,
-    service, 
-    services,
-    review,
-    footer
+    Banner,
+    Portfolio,
+    Service, 
+    Services,
+    Review,
+    Footer
   }
   }
 }
