@@ -1,0 +1,50 @@
+<template>
+<section class="banner-area relative" id="home">	
+	<div class="overlay overlay-bg">
+    </div>
+		<div class="container">
+			<div class="row fullscreen d-flex align-items-center justify-content-center" style="height: 722px;">
+				<div class="banner-content col-lg-10">
+						<h1>B&B Appeltern			
+						</h1>
+						<a href="#" class="primary-btn text-uppercase">Meer informatie
+                        </a>
+				</div>											
+			</div>
+		</div>
+</section>
+
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
+
+</template>
+
+<script>
+import './js/http.js'
+export default {
+  name: 'Banner'
+}
+</script>
+
+<style>
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  margin-top: 60px;
+}
+</style>
+
+<style scoped>
+@import '../css/animate.min.css';
+@import '../css/bootstrap.css';
+@import '../css/font-awesome.min.css';
+@import '../css/jquery.DonutWidget.min.css';
+@import '../css/jquerysctipttop.css';
+@import '../css/linearicons.css';
+@import '../css/magnific-popup.css';
+@import '../css/main.css';
+@import '../css/nice-select.css';
+@import '../css/owl.carousel.css';
+</style>
